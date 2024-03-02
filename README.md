@@ -1,22 +1,37 @@
-# CLIP4Kids: Fostering AI Literacy for Young Minds
+# CLIP4Kids: Exploring AI Bias and Fairness with Multimodal Learning
 
-## Key Features:
+CLIP4Kids is a versatile, web-based system created using the Python library Gradio. Accessible through standard web browsers, it features three interactive interfaces designed to offer students valuable insights into AI's capabilities and ethical considerations.
 
-- **Interactive Learning:** Engage children aged 9-10 years and older in an interactive exploration of different AI concepts.
-- **Direct Interaction:** CLIP4Kids allows students to interact with OpenAI's CLIP model, and supports them in identifying and questioning AI biases.
-- **Inclusive Curriculum:** Grounded in , our curriculum connects AI biases to broader societal biases.
+## Core Technology: CLIP-ViT-B32 Model
 
-## About the Project:
+At the heart of CLIP4Kids is OpenAI's CLIP-ViT-B32 model. This model enables the encoding of inputs in text and image modalities, allowing the computation of cosine similarity vectors. This unique capability quantifies relationships between text and images, facilitating functions like classifications, comparisons, and the visualization of associations.
 
-CLIP4KIDS is a multimodal, web-based system that we built using the Python library Gradio and can be accessed from a web-browser. It contains three interactive interfaces designed to provide students insights into the capabilities and ethical implications of AI. At the core of each interface lies the CLIP-ViT-B32 model. By utilizing this model, CLIP4KIDS can encode inputs in text and image modalities and compute cosine similarity vectors, thereby quantifying the relationships between various inputs. For example, an image of a German Shepherd would have a greater cosine similarity in CLIP with a text input like ``a photo of a dog'' or ``a photo of an animal that woofs'' than it would with ``a photo of a cat'' or ``a photo of an animal that meows.''  Image and text vectors play a pivotal role in generating probabilities in CLIP, which in turn enable functions such as classifications, comparisons, and the visualization of associations. 
+## Tinkerability at its Core
 
-We developed CLIP4KIDS with tinkerability as one of our core design goals. Toward this, we added a couple of affordances for facilitating tinkering: (1) support for immediate feedback, allowing users to quickly observe the results of their actions, and (2) support for fluid experimentation, making it easy for users to initiate exploration and engage in iterative experimentation by connecting, disconnecting, and reconnecting with their ideas. 
+CLIP4Kids is desgined with tinkerability in mind, encouraging users to experiment and explore the system. Key features supporting this goal include:
 
-We scaffolded the learning experience by (a) introducing students to associations in AI in Intereface 1; (b) allowing students to interact with the associations of the system directly using their own language in Interface 2; and (c) presenting students with a fairness task, wherein they decided how to use a smart door lock in Interface 3. 
+1. **Immediate Feedback:** Users can quickly observe the results of their actions, fostering a responsive and interactive learning experience.
+  
+2. **Fluid Experimentation:** The platform supports fluid experimentation, making it easy for users to initiate exploration and engage in iterative experimentation by connecting, disconnecting, and reconnecting with their ideas.
 
-### Get Started:
+## Scaffolded Learning Experience
 
-Ready to dive in? Check out our [Getting Started Guide](#link-to-getting-started) for step-by-step instructions on using CLIP4Kids. Start the conversation on AI bias in your classroom today!
+Enhancing the learning journey, CLIP4Kids follows a scaffolded approach:
+
+- **Interface 1:** Introduction to associations in AI, laying the foundation for understanding.
+  
+- **Interface 2:** Direct interaction with system associations using students' language, fostering engagement.
+  
+- **Interface 3:** Presentation of a fairness task, where students decide how to use a smart door lock, connecting AI bias to real-world scenarios.
+
+CLIP4Kids provides a dynamic and user-friendly environment for students to comprehend AI concepts, promoting exploration and critical thinking.
+
+## Getting Started
+
+1. Clone the repository.
+2. Follow the [Installation Guide](#link-to-installation) for detailed instructions.
+3. Explore the interactive interfaces and start your journey into the ethical considerations of AI.
+
 
 ### Technologies Used:
 
