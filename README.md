@@ -27,10 +27,27 @@ CLIP4Kids follows a scaffolded approach, as each interface uses a similar but sl
 - **Interface 3:** Users are presented with a fairness task, where they decide how to use a smart door lock including defining positive/negative classes and set acceptance threshold.
 
 ## Getting Started
+To set up and explore CLIP4Kids, follow these steps:
 
-1. Clone the repository.
-2. Follow the [Installation Guide](#link-to-installation) for detailed instructions.
-3. Explore the interactive interfaces and start your journey into the ethical considerations of AI.
+### Prerequisites
+
+Before you begin, ensure you have the following installed on your system:
+
+- [Python](https://www.python.org/downloads/) (version X.X or higher)
+- [Gradio](https://www.gradio.app/getting_started) (install using `pip install gradio`)
+- [Other Dependencies, if any]
+
+### Clone the Repository
+```bash
+git clone https://github.com/your-username/clip4kids.git
+cd clip4kids
+
+### Run CLIP4Kids
+
+Start the CLIP4Kids application:
+python app.py
+Visit http://localhost:5000 in your web browser to access CLIP4Kids.
+
 
 ### Links and Resources:
 
