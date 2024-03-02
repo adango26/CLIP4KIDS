@@ -32,13 +32,6 @@ CLIP4Kids follows a scaffolded approach, as each interface uses a similar but sl
 2. Follow the [Installation Guide](#link-to-installation) for detailed instructions.
 3. Explore the interactive interfaces and start your journey into the ethical considerations of AI.
 
-
-### Technologies Used:
-
-- **OpenAI's CLIP Model:** Powering interactive learning experiences.
-- **[Technology 2]**
-- **[Technology 3]**
-
 ### Links and Resources:
 
 - [Documentation](#link-to-documentation): Explore detailed insights and guides.
@@ -48,10 +41,6 @@ CLIP4Kids follows a scaffolded approach, as each interface uses a similar but sl
 ## Connect with Us:
 
 Connect with us on [Twitter](#link-to-twitter) and [LinkedIn](#link-to-linkedin) for project updates and announcements. Your feedback and engagement are essential to our mission!
-
-### Contributing:
-
-Interested in contributing? Check out our [Contribution Guidelines](#link-to-contribution) for bug reports, feature requests, and pull requests. Join us in shaping the future of AI literacy for children.
 
 ### License:
 
