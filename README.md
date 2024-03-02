@@ -1,3 +1,5 @@
+# CLIP4Kids: Exploring AI Bias & Fairness with Multimodal Learning
+
 ## About the Project:
 
 CLIP4Kids is a multimodal, web-based system created using the Python library Gradio. Accessible through standard web browsers, it features three interactive interfaces designed to offer students valuable insights into AI's capabilities and ethical considerations.
