@@ -24,52 +24,20 @@ CLIP4Kids follows a scaffolded approach, as each interface uses a similar but sl
   
 - **Interface 2 (Zero Shot Classification):** Users are introduced to potential biases in model predictions based on user-defined labels. 
   
-- **Interface 3:** Users are presented with a fairness task, where they decide how to use a smart door lock including defining positive/negative classes and set acceptance threshold.
-
-## Getting Started
-To set up and explore CLIP4Kids, follow these steps:
-
-### Prerequisites
-
-Before you begin, ensure you have the following installed on your system:
-
-- [Python](https://www.python.org/downloads/) (version X.X or higher)
-- [Gradio](https://www.gradio.app/getting_started) (install using `pip install gradio`)
-- [Other Dependencies, if any]
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/clip4kids.git
-cd clip4kids
-
-### Run CLIP4Kids
-
-Start the CLIP4Kids application:
-python app.py
-Visit http://localhost:5000 in your web browser to access CLIP4Kids.
+- **Interface 3 (Smart Door Lock):** Users are presented with a fairness task, where they decide how to use a smart door lock including defining positive/negative classes and set acceptance threshold.
 
 
 ### Links and Resources:
 
-- [Documentation](#link-to-documentation): Explore detailed insights and guides.
-- [Demo/Preview](#link-to-demo): See CLIP4Kids in action.
-- [Blog/Changelog](#link-to-blog): Stay updated on our latest developments.
+- [CLIP4KIDS Installation](#link-to-documentation): Clone the repository and run it in your local machine to see CLIP4KIDS in action .
+- [Classroom Activities](#link-to-demo): Explore classroom activities designed to facilitate learning about AI bias and fairness using CLIP4KIDS.
+- [Research Instruments](#link-to-blog): Access our research instruments used in evaluating CLIP4KIDS' effectiveness in promoting children's understanding of AI bias and fairness.
+  
 
-## Connect with Us:
-
-Connect with us on [Twitter](#link-to-twitter) and [LinkedIn](#link-to-linkedin) for project updates and announcements. Your feedback and engagement are essential to our mission!
-
-### License:
-
-CLIP4Kids is released under the [MIT License](#link-to-license). Your collaboration is encouraged, and transparency is our commitment.
-
-Thank you for being a part of CLIP4Kids—empowering the next generation with AI literacy!
-
+### Acknowledgements:
+This material is based upon work supported under the AI Research Institutes program by National Science Foundation and the Institute of Education Sciences, U.S. Department of Education, through Award # 2229873 - National AI Institute for Exceptional Education. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation, the
+Institute of Education Sciences, or the U.S. Department of Education.
 
 ---
-
-[Optional: Include a banner or logo related to your project]
-
-[Footer: Copyright information or any other necessary disclaimers]
 
 
