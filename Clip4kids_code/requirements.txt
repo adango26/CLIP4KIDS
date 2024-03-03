@@ -1,0 +1,8 @@
+diffusers
+gradio
+openai
+pandas
+pillow
+torch
+transformers
+wordcloud
