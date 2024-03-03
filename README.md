@@ -29,7 +29,7 @@ CLIP4Kids follows a scaffolded approach, as each interface uses a similar but sl
 
 ## Links and Resources:
 
-- [CLIP4KIDS Installation](https://github.com/wolferobert3/kidsprompt): Clone the repository and run it in your local machine to see CLIP4KIDS in action.
+- [CLIP4KIDS Installation](https://github.com/adango26/CLIP4kids_code): Clone the repository and run it in your local machine to see CLIP4KIDS in action.
 - [Classroom Activities](#link-to-demo): Explore classroom activities designed to facilitate learning about AI bias and fairness using CLIP4KIDS.
 - [Research Instruments](#link-to-blog): Access our research instruments used in evaluating CLIP4KIDS' effectiveness in promoting children's understanding of AI bias and fairness.
   
