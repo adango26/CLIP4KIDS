@@ -1,12 +1,12 @@
-# CLIP4Kids: Exploring AI Bias & Fairness with Multimodal Learning
+# CLIP4KIDS: Exploring AI Bias & Fairness with Multimodal Learning
 
 ## About the Project:
 
-CLIP4Kids is a multimodal, web-based system created using the Python library Gradio. Accessible through standard web browsers, it features three interactive interfaces designed to offer students valuable insights into AI's capabilities and ethical considerations.
+CLIP4KIDS is a multimodal, web-based system created using the Python library Gradio. Accessible through standard web browsers, it features three interactive interfaces designed to offer students valuable insights into AI's capabilities and ethical considerations.
 
 ### Core Technology: CLIP-ViT-B32 Model
 
-At the core of CLIP4Kids is OpenAI's CLIP-ViT-B32 model. This model enables the encoding of inputs in text and image modalities, allowing the computation of cosine similarity vectors. This unique capability quantifies relationships between text and images, facilitating functions like classifications, comparisons, and the visualization of associations.
+At the core of CLIP4KIDS is OpenAI's CLIP-ViT-B32 model. This model enables the encoding of inputs in text and image modalities, allowing the computation of cosine similarity vectors. This unique capability quantifies relationships between text and images, facilitating functions like classifications, comparisons, and the visualization of associations.
 
 ### Tinkerability as a Design Goal
 
@@ -18,7 +18,7 @@ CLIP4Kids is desgined with tinkerability in mind, encouraging users to experimen
 
 ### Scaffolded Learning Experience
 
-CLIP4Kids follows a scaffolded approach, as each interface uses a similar but slightly more sophisticated version of the preceding interface, gradually increasing learner responsibility.
+CLIP4KIDS follows a scaffolded approach, as each interface uses a similar but slightly more sophisticated version of the preceding interface, gradually increasing learner responsibility.
 
 - **Interface 1 (Real Time Word Cloud):** Users are introduced to associations in AI  word clouds using word and image associations. 
   
